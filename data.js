@@ -1,3 +1,4 @@
+// MARBLE UNCHI WARRIOR - RECORD ARCHIVE
 window.MUW_ARCHIVE_DATA = {
   "schemaVersion": 1,
   "site": {
@@ -24,11 +25,7 @@ window.MUW_ARCHIVE_DATA = {
     "updates": [
       {
         "date": "2026/11/26",
-        "text": "UNCHAMPION SHIPの開催情報・対戦結果・最終順位を追加"
-      },
-      {
-        "date": "2026/11/26",
-        "text": "UNCHAMPION SHIPの開催情報・対戦結果を追加"
+        "text": "サイト公開　まだ全然更新できてないけど、そのうちね"
       }
     ]
   },
